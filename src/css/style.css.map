@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,0CAA+B;AAC/B,yFAAiF;AAMzF,CAAE;EACE,WAAW,EAAE,qBAAqB;EAClC,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;;AAGd,UAAW;EACT,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;;;ACfhB,MAAO;EACL,UAAU,EAAE,KAAK;EACjB,QAAQ,EAAE,QAAQ;EAClB,UAAU,EAAE,4BAA4B",
+"sources": ["../sass/style.scss","../sass/blocks/_promo.scss"],
+"names": [],
+"file": "style.css"
+}
